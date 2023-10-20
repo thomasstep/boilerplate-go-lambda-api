@@ -1,0 +1,9 @@
+{
+  "cdkEnvironment": {
+    "account": "",
+    "region": "us-east-1"
+  },
+  "eventOperations": {
+    "eventActionEvent": "eventAction",
+  },
+}

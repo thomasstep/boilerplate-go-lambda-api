@@ -1,0 +1,5 @@
+.DS_Store
+notes.md
+infra/config*.json
+*Src/main
+*Src/main.zip
